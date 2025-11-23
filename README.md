@@ -25,15 +25,15 @@ Guide Hub menawarkan solusi yang menyatukan manajemen kegiatan dan keamanan akse
 
 ## Tech Stack & Fitur Utama
 ### Tech Stack 
-Backend: Node.js, Express.js 
-Database: MongoDB (Atlas) 
-Frontend: React (Vite) Library JavaScript 
-Autentikasi: JWT, Bcryptjs 
-File Handling: Multer 
+-Backend: Node.js, Express.js 
+-Database: MongoDB (Atlas) 
+-Frontend: React (Vite) Library JavaScript 
+-Autentikasi: JWT, Bcryptjs 
+-File Handling: Multer 
 
 ### Fitur Utama
-Autentikasi Penuh: Registrasi dan Login pengguna yang aman.
-CRUD Kegiatan: Operasi lengkap untuk mengelola Activity (membuat, menampilkan daftar, melihat detail, mengubah, dan menghapus).
-File Upload Fleksibel: Mendukung berbagai tipe file (images, PDF, dokumen) sebagai pendukung kegiatan.
-Sesi Persistensi: Mempertahankan sesi pengguna melalui token yang disimpan di browser.
-Akses Terproteksi: Semua route CRUD utama dilindungi oleh middleware otorisasi (`protect`).
+-Autentikasi Penuh: Registrasi dan Login pengguna yang aman.
+-CRUD Kegiatan: Operasi lengkap untuk mengelola Activity (membuat, menampilkan daftar, melihat detail, mengubah, dan menghapus).
+-File Upload Fleksibel: Mendukung berbagai tipe file (images, PDF, dokumen) sebagai pendukung kegiatan.
+-Sesi Persistensi: Mempertahankan sesi pengguna melalui token yang disimpan di browser.
+-Akses Terproteksi: Semua route CRUD utama dilindungi oleh middleware otorisasi (`protect`).
