@@ -3,7 +3,7 @@
 
 ## Deskripsi Singkat
 
-Guide Hub adalah platform berbasis web yang dirancang untuk memfasilitasi manajemen, perencanaan, dan pengorganisasian kegiatan bagi sekelompok Pemandu (Guides) dalam sebuah komunitas. Aplikasi ini menyediakan sistem CRUD (Create, Read, Update, Delete) untuk kegiatan dan dilengkapi dengan fitur autentikasi (Login/Register) serta file upload yang aman. 
+Guide Hub adalah platform berbasis web yang dirancang untuk memfasilitasi manajemen, perencanaan, dan pengorganisasian kegiatan bagi sekelompok Pemandu (Guides) dalam sebuah komunitas. Aplikasi ini menyediakan sistem CRUD untuk kegiatan dan dilengkapi dengan fitur autentikasi (Login/Register) serta file upload yang aman. 
 
 ## Problem Statement
 
